@@ -29,7 +29,6 @@
 ## 📬 Contact & Location
 
 * **Principal Investigator:** 김기웅 교수 (Prof. Kiwoong Kim)
-* **Tel:** 043-261-2277
 * **Location:** 
   * **[KOR]** 충북 청주시 서원구 충대로 1, 충북대학교 자연과학대학 (S1-1동) 249호 / 202호 (우: 28644)
   * **[ENG]** Room 249 & 202, Building S1-1 (College of Natural Sciences), Chungbuk National University, 1, Chungdae-ro, Seowon-gu, Cheongju-si, Chungbuk 28644, South Korea
